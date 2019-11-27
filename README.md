@@ -4,6 +4,6 @@ This Jupyter Notebook accompanies the article titled ["Portfolio optimization in
 
 **Pre-requisites:** 
 
-**Thomson Reuters Eikon** with access to [Eikon Data APIs](https://developers.refinitiv.com/eikon-data-apis)
+**Thomson Reuters Eikon** or **Refinitiv Workspace** with access to [Eikon Data APIs](https://developers.refinitiv.com/eikon-data-apis)
 
 **Required Python Packages:** eikon, pandas, numpy, ffn, pypfopt, matplotlib 
